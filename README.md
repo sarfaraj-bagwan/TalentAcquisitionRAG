@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+HEAD
 # TalentAcquisitionRAG
-=======
+
 # Talent Acquisition RAG AI
 
 This project implements a Retrieval-Augmented Generation (RAG) system for HR Talent Acquisition.
